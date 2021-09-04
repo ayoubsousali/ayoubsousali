@@ -8,7 +8,7 @@ My curiosity always drives me to learn new technologies and staying up to date w
 
 ### You can check my work here
 
-[Website](https://www.ayoubsousali.com/)
+[Website](https://www.sousali.com/)
 
 [Linkedin](https://www.linkedin.com/in/ayoubsousali1/)
 
