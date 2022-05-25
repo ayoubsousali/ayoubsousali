@@ -10,7 +10,7 @@ My curiosity always drives me to learn new technologies and staying up to date w
 
 [Website](https://sousali.com/)
 
-[Linkedin](https://www.linkedin.com/in/ayoubsousali1/)
+[Linkedin](https://www.linkedin.com/in/ayoubsousali/)
 
 ### Languages and Tools
 
