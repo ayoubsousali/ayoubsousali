@@ -1,8 +1,6 @@
 ### Hello World!
 
-I'm Ayoub Sousali, a passionate freelance developer immersed in the world of technology. My current focus revolves around crafting exceptional web and mobile applications using the powerful combination of React, React Native, Express, and Node.js.
-
-Driven by a lot of curiosity, I continually explore emerging technologies and stay up to date with the latest methodologies and best practices. This relentless pursuit of knowledge enables me to deliver cutting-edge solutions and elevate the quality of the applications I create.
+Hi, I'm Ayoub Sousali, a developer specializing in React, React Native, Express, Node.js, PHP, JavaScript and Typescript. I’m passionate about creating modern web and mobile apps and staying updated with the latest tech trends.
 
 ### You can check my work here
 
